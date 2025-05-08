@@ -45,12 +45,12 @@ I'm always on the lookout for **new challenges** and opportunities to push my li
 ---
 
 ## 📊 GitHub Stats  
-![Sepehr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sepehrmoafi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrmoafi&layout=compact&theme=radical)  
+![Sepehr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smoafi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smoafi&layout=compact&theme=radical)  
 
 ---
 
 ## 🤝 Connect with Me  
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sepehrmoafi.com/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sepehrmoafi)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sepehrmoafi)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smoafi)  
