@@ -43,8 +43,8 @@ I’ve spent the past **4 years** building web software and the last **3 years**
 ---
 
 ## 📊 GitHub Stats
-![Sepehr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=3perM&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3perM&layout=compact&theme=radical)
+![Sepehr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=3p3hr&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3p3hr&layout=compact&theme=radical)
 
 ---
 
